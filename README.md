@@ -1,4 +1,4 @@
-#  Smart AI Agent: RAG, Web Search & LangGraph
+#  MindWeave: RAG, Web Search & LangGraph
 
 ---
 
