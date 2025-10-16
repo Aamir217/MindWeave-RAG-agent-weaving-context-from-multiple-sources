@@ -1,8 +1,4 @@
-# 🤖 Smart AI Agent: RAG, Web Search & LangGraph
-
-![Smart AI Agent Thumbnail](assets/agentBot.png)
-
-🔗 **[Download Project PDF](assets/agentBot.pdf)**
+#  Smart AI Agent: RAG, Web Search & LangGraph
 
 ---
 
